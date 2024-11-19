@@ -1,6 +1,6 @@
 # " Design and Implementation of Active Filter using Genetic Algorithm "
 
-This project focuses on automating the design of active filters through genetic algorithms implemented in MATLAB. By analyzing 16 circuit topologies, we found the transfer function of each circuit to formulate the fitness function, which optimizes the values of resistors and capacitors. Practical testing of six unique filters demonstrated the effectiveness of these methods. The outcomes suggest that this automated approach can enhance efficiency in filter design, offering valuable insights for both academic research and industrial applications.
+This project focuses on automating the design of active filters through genetic algorithms implemented in MATLAB. There is a MATLAB GUI designed for gathering initial values of preference. By analyzing 16 circuit topologies, we found the transfer function of each circuit to formulate the fitness function, which optimizes the values of resistors and capacitors. Practical testing of six unique filters demonstrated the effectiveness of these methods. The outcomes suggest that this automated approach can enhance efficiency in filter design, offering valuable insights for both academic research and industrial applications.
 
 Note: This project is coded and tested in MATLAB R2019b.
 
